@@ -1,0 +1,1 @@
+ffmpeg-python  # Wrapper de FFmpeg para ejecutar comandos FFmpeg
